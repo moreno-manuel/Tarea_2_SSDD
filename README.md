@@ -1,7 +1,7 @@
 # Tarea_2_SSDD
 <h1>#JAVA-RMI</h1>
 
-RMI es un paquete de JAVA que permite manejar objetos (y sus respectivos métodos) de manera remota, para utilizar los recursos de un servidor de manera transparente para el usuario local.Otro punto importante en RMI, es el cómo se produce la conectividad entre el cliente y servidor. Para esto se ocupa una herramienta de JAVA, llamada RMI Registry, que puede estar localizado en un lugar distinto al servidor, y se encarga de registrar un determinado objeto y asignarle un servidor que se encargará de procesar dicho objeto. 
+RMI es un paquete de JAVA que permite manejar objetos (y sus respectivos métodos) de manera remota, para utilizar los recursos de un servidor de manera transparente para el usuario local. Otro punto importante en RMI, es el cómo se produce la conectividad entre el cliente y servidor. Para esto se ocupa una herramienta de JAVA, llamada RMI Registry, que puede estar localizado en un lugar distinto al servidor, y se encarga de registrar un determinado objeto y asignarle un servidor que se encargará de procesar dicho objeto. 
 
 <h1>Objetivo</h1>
 
